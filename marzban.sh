@@ -1009,7 +1009,7 @@ install_command() {
 
     # Default values
     database_type="sqlite"
-    marzban_version="latest"
+    marzban_version="0.7.0"
     marzban_version_set="false"
 
     # Parse options
